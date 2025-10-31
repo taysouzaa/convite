@@ -9,25 +9,6 @@ Convite digital para a formatura da turma **3ºB de 2025**, com informações so
 
 ---
 
-## 🌟 Visão Geral
-
-O **Convite de Formatura do 3ºB 2025** é um convite digital elegante e responsivo, ideal para dispositivos móveis e desktops.  
-Ele permite que os convidados confirmem presença diretamente via WhatsApp, garantindo praticidade e organização na gestão da lista de convidados.
-
----
-
-## ✨ Funcionalidades
-
-- Layout moderno com cores **azul escuro** e **dourado**.  
-- Responsivo para **celulares, tablets e desktops**.  
-- Seções de informações detalhadas:
-  - **Celebração** → data e horário.  
-  - **Local** → endereço completo.  
-  - **Notas** → observações para convidados.  
-- Botão de **confirmação de presença via WhatsApp** com mensagem automática.
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5** → estrutura do convite  
